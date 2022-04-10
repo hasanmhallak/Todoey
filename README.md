@@ -1,5 +1,6 @@
 # Todoey
 ## Overview
+
 A very lightweight To-Do app that have a beautiful and friendly user interface.  
 ![Preview](/preview.gif)
 
